@@ -315,7 +315,7 @@ FAQs:
 
 ### DynamoDB
 
-NoSQL serverless database
+NoSQL serverless database 
 
 FAQs:
 
@@ -402,3 +402,15 @@ FAQs:
 - https://aws.amazon.com/dms/faqs
 
 ---
+
+### Workspaces
+
+basically cloud9 but as a desktop instead of ssh
+
+FAQs:
+
+- https://aws.amazon.com/workspaces/faqs
+
+---
+
+

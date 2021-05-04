@@ -225,6 +225,11 @@ const services: AWSService[] = [
       "service to migrate databases into an AWS db engine (aurora or DDB for example)",
     faq: ["https://aws.amazon.com/dms/faqs"],
   },
+  {
+    name: "Workspaces",
+    description: "basically cloud9 but as a desktop instead of ssh",
+    faq: ["https://aws.amazon.com/workspaces/faqs"]
+  }
 ];
 
 const source = readFileSync("./README.template.md", { encoding: "utf-8" });
