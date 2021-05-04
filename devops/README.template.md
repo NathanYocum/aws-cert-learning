@@ -3,7 +3,9 @@
 
 {{description}}
 
-FAQs: {{faq}}
+FAQs:
+
+- {{faq}}
 
 ---
 

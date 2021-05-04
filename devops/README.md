@@ -2,7 +2,9 @@
 
 Github but in AWS
 
-FAQs: https://aws.amazon.com/codecommit/faqs/
+FAQs:
+
+- https://aws.amazon.com/codecommit/faqs/
 
 ---
 
@@ -10,7 +12,9 @@ FAQs: https://aws.amazon.com/codecommit/faqs/
 
 Build and test code in containers
 
-FAQs: https://aws.amazon.com/codebuild/faqs/
+FAQs:
+
+- https://aws.amazon.com/codebuild/faqs/
 
 ---
 
@@ -18,7 +22,9 @@ FAQs: https://aws.amazon.com/codebuild/faqs/
 
 automate deployments of EC2, Lambda functions, and more
 
-FAQs: https://aws.amazon.com/codedeploy/faqs/
+FAQs:
+
+- https://aws.amazon.com/codedeploy/faqs/
 
 ---
 
@@ -26,7 +32,9 @@ FAQs: https://aws.amazon.com/codedeploy/faqs/
 
 automate actions inside of stages to deploy code
 
-FAQs: https://aws.amazon.com/codepipeline/faqs/
+FAQs:
+
+- https://aws.amazon.com/codepipeline/faqs/
 
 ---
 
@@ -34,7 +42,9 @@ FAQs: https://aws.amazon.com/codepipeline/faqs/
 
 infrastructure configuration to make infrastructure repeatable
 
-FAQs: https://aws.amazon.com/cloudformation/faqs/
+FAQs:
+
+- https://aws.amazon.com/cloudformation/faqs/
 
 ---
 
@@ -42,7 +52,9 @@ FAQs: https://aws.amazon.com/cloudformation/faqs/
 
 automatically handles provisioning, load-balancing, scaling, and application health
 
-FAQs: https://aws.amazon.com/elasticbeanstalk/faqs/
+FAQs:
+
+- https://aws.amazon.com/elasticbeanstalk/faqs/
 
 ---
 
@@ -50,7 +62,9 @@ FAQs: https://aws.amazon.com/elasticbeanstalk/faqs/
 
 resource inventory to assist with compliance, security, and governance
 
-FAQs: https://aws.amazon.com/config/faq/
+FAQs:
+
+- https://aws.amazon.com/config/faq/
 
 ---
 
@@ -58,7 +72,9 @@ FAQs: https://aws.amazon.com/config/faq/
 
 supports docker images on EC2 instances
 
-FAQs: https://aws.amazon.com/ecs/faqs/
+FAQs:
+
+- https://aws.amazon.com/ecs/faqs/
 
 ---
 
@@ -66,7 +82,9 @@ FAQs: https://aws.amazon.com/ecs/faqs/
 
 aws k8s
 
-FAQs: https://aws.amazon.com/eks/faqs/
+FAQs:
+
+- https://aws.amazon.com/eks/faqs/
 
 ---
 
@@ -74,7 +92,9 @@ FAQs: https://aws.amazon.com/eks/faqs/
 
 repositories of built docker containers
 
-FAQs: https://aws.amazon.com/ecr/faqs/
+FAQs:
+
+- https://aws.amazon.com/ecr/faqs/
 
 ---
 
@@ -82,7 +102,9 @@ FAQs: https://aws.amazon.com/ecr/faqs/
 
 serverless containers using ECS / EKS
 
-FAQs: https://aws.amazon.com/fargate/faqs/
+FAQs:
+
+- https://aws.amazon.com/fargate/faqs/
 
 ---
 
@@ -90,7 +112,9 @@ FAQs: https://aws.amazon.com/fargate/faqs/
 
 run third party services in AWS
 
-FAQs: https://aws.amazon.com/managed-services/faqs/
+FAQs:
+
+- https://aws.amazon.com/managed-services/faqs/
 
 ---
 
@@ -98,7 +122,9 @@ FAQs: https://aws.amazon.com/managed-services/faqs/
 
 run stateless code on demand without managing servers
 
-FAQs: https://aws.amazon.com/lambda/faqs/
+FAQs:
+
+- https://aws.amazon.com/lambda/faqs/
 
 ---
 
@@ -106,7 +132,11 @@ FAQs: https://aws.amazon.com/lambda/faqs/
 
 configuration management for servers
 
-FAQs: https://aws.amazon.com/opsworks/faqs/,https://aws.amazon.com/opsworks/stacks/faqs,https://aws.amazon.com/opsworks/puppetenterprise/faqs
+FAQs:
+
+- https://aws.amazon.com/opsworks/faqs/
+- https://aws.amazon.com/opsworks/stacks/faqs
+- https://aws.amazon.com/opsworks/puppetenterprise/faqs
 
 ---
 
@@ -114,7 +144,9 @@ FAQs: https://aws.amazon.com/opsworks/faqs/,https://aws.amazon.com/opsworks/stac
 
 logging and metrics for AWS resources
 
-FAQs: https://aws.amazon.com/cloudwatch/faqs/
+FAQs:
+
+- https://aws.amazon.com/cloudwatch/faqs/
 
 ---
 
@@ -122,7 +154,9 @@ FAQs: https://aws.amazon.com/cloudwatch/faqs/
 
 debugging and logging for AWS resources
 
-FAQs: https://aws.amazon.com/xray/faqs/
+FAQs:
+
+- https://aws.amazon.com/xray/faqs/
 
 ---
 
@@ -130,7 +164,9 @@ FAQs: https://aws.amazon.com/xray/faqs/
 
 allow products to use a porfolio of services
 
-FAQs: https://aws.amazon.com/servicecatalog/faqs/
+FAQs:
+
+- https://aws.amazon.com/servicecatalog/faqs/
 
 ---
 
@@ -138,7 +174,9 @@ FAQs: https://aws.amazon.com/servicecatalog/faqs/
 
 tool to help with billing management
 
-FAQs: https://aws.amazon.com/premiumsupport/faqs/
+FAQs:
+
+- https://aws.amazon.com/premiumsupport/faqs/
 
 ---
 
@@ -146,7 +184,9 @@ FAQs: https://aws.amazon.com/premiumsupport/faqs/
 
 parameter store and task automator
 
-FAQs: https://aws.amazon.com/systems-manager/faq/
+FAQs:
+
+- https://aws.amazon.com/systems-manager/faq/
 
 ---
 
@@ -154,7 +194,9 @@ FAQs: https://aws.amazon.com/systems-manager/faq/
 
 centralized management for AWS accounts
 
-FAQs: https://aws.amazon.com/organizations/faqs/
+FAQs:
+
+- https://aws.amazon.com/organizations/faqs/
 
 ---
 
@@ -162,7 +204,9 @@ FAQs: https://aws.amazon.com/organizations/faqs/
 
 service to store and rotate passwords
 
-FAQs: https://aws.amazon.com/secrets-manager/faqs/
+FAQs:
+
+- https://aws.amazon.com/secrets-manager/faqs/
 
 ---
 
@@ -170,7 +214,9 @@ FAQs: https://aws.amazon.com/secrets-manager/faqs/
 
 PII identification and protection service
 
-FAQs: https://aws.amazon.com/macie/faq/
+FAQs:
+
+- https://aws.amazon.com/macie/faq/
 
 ---
 
@@ -178,7 +224,9 @@ FAQs: https://aws.amazon.com/macie/faq/
 
 manage SSL/TLS certifications
 
-FAQs: https://aws.amazon.com/certificate-manager/faqs/
+FAQs:
+
+- https://aws.amazon.com/certificate-manager/faqs/
 
 ---
 
@@ -186,7 +234,9 @@ FAQs: https://aws.amazon.com/certificate-manager/faqs/
 
 threat detection and alarming for AWS accounts
 
-FAQs: https://aws.amazon.com/guardduty/faqs/
+FAQs:
+
+- https://aws.amazon.com/guardduty/faqs/
 
 ---
 
@@ -194,7 +244,9 @@ FAQs: https://aws.amazon.com/guardduty/faqs/
 
 EC2 security analysis
 
-FAQs: https://aws.amazon.com/inspector/faqs/
+FAQs:
+
+- https://aws.amazon.com/inspector/faqs/
 
 ---
 
@@ -202,7 +254,12 @@ FAQs: https://aws.amazon.com/inspector/faqs/
 
 stream/event ingestion and analytics
 
-FAQs: https://aws.amazon.com/kinesis/video-streams/faqs,https://aws.amazon.com/kinesis/data-streams/faqs/,https://aws.amazon.com/kinesis/data-firehose/faqs,https://aws.amazon.com/kinesis/data-analytics/faqs
+FAQs:
+
+- https://aws.amazon.com/kinesis/video-streams/faqs
+- https://aws.amazon.com/kinesis/data-streams/faqs/
+- https://aws.amazon.com/kinesis/data-firehose/faqs
+- https://aws.amazon.com/kinesis/data-analytics/faqs
 
 ---
 
@@ -210,7 +267,9 @@ FAQs: https://aws.amazon.com/kinesis/video-streams/faqs,https://aws.amazon.com/k
 
 AWS single sign on service for multiple accounts and applications
 
-FAQs: https://aws.amazon.com/single-sign-on/faqs/
+FAQs:
+
+- https://aws.amazon.com/single-sign-on/faqs/
 
 ---
 
@@ -218,7 +277,9 @@ FAQs: https://aws.amazon.com/single-sign-on/faqs/
 
 distribute content over http
 
-FAQs: https://aws.amazon.com/cloudfront/faqs/
+FAQs:
+
+- https://aws.amazon.com/cloudfront/faqs/
 
 ---
 
@@ -226,7 +287,9 @@ FAQs: https://aws.amazon.com/cloudfront/faqs/
 
 AWS DNS service
 
-FAQs: https://aws.amazon.com/route53/faqs/
+FAQs:
+
+- https://aws.amazon.com/route53/faqs/
 
 ---
 
@@ -234,7 +297,9 @@ FAQs: https://aws.amazon.com/route53/faqs/
 
 AWS releational database managed service
 
-FAQs: https://aws.amazon.com/rds/faqs/
+FAQs:
+
+- https://aws.amazon.com/rds/faqs/
 
 ---
 
@@ -242,15 +307,19 @@ FAQs: https://aws.amazon.com/rds/faqs/
 
 Postgres/mysql compliant rds engine
 
-FAQs: https://aws.amazon.com/aurora/faqs/
+FAQs:
+
+- https://aws.amazon.com/aurora/faqs/
 
 ---
 
 ### DynamoDB
 
-NoSQL serverless database 
+NoSQL serverless database
 
-FAQs: https://aws.amazon.com/dynamodb/faqs/
+FAQs:
+
+- https://aws.amazon.com/dynamodb/faqs/
 
 ---
 
@@ -258,7 +327,9 @@ FAQs: https://aws.amazon.com/dynamodb/faqs/
 
 file system for compute (ec2, eks, lambda, etc)
 
-FAQs: https://aws.amazon.com/efs/faq/
+FAQs:
+
+- https://aws.amazon.com/efs/faq/
 
 ---
 
@@ -266,7 +337,9 @@ FAQs: https://aws.amazon.com/efs/faq/
 
 file system for ec2
 
-FAQs: https://aws.amazon.com/ebs/faqs/
+FAQs:
+
+- https://aws.amazon.com/ebs/faqs/
 
 ---
 
@@ -274,7 +347,9 @@ FAQs: https://aws.amazon.com/ebs/faqs/
 
 memcached or redis compliant caching in the cloud
 
-FAQs: https://aws.amazon.com/elasticache/faqs/
+FAQs:
+
+- https://aws.amazon.com/elasticache/faqs/
 
 ---
 
@@ -282,7 +357,9 @@ FAQs: https://aws.amazon.com/elasticache/faqs/
 
 ELK (elasticsearch, logstask, kibana) stack deployment, operations, and scaling service
 
-FAQs: https://aws.amazon.com/elasticsearch-service/faqs/
+FAQs:
+
+- https://aws.amazon.com/elasticsearch-service/faqs/
 
 ---
 
@@ -290,7 +367,9 @@ FAQs: https://aws.amazon.com/elasticsearch-service/faqs/
 
 run server migrations in AWS
 
-FAQs: https://aws.amazon.com/server-migration-service/faqs/
+FAQs:
+
+- https://aws.amazon.com/server-migration-service/faqs/
 
 ---
 
@@ -298,7 +377,9 @@ FAQs: https://aws.amazon.com/server-migration-service/faqs/
 
 aws service for application search
 
-FAQs: https://aws.amazon.com/cloudsearch/faqs/
+FAQs:
+
+- https://aws.amazon.com/cloudsearch/faqs/
 
 ---
 
@@ -306,7 +387,9 @@ FAQs: https://aws.amazon.com/cloudsearch/faqs/
 
 lambda functions stitched together with state
 
-FAQs: https://aws.amazon.com/step-functions/faqs/
+FAQs:
+
+- https://aws.amazon.com/step-functions/faqs/
 
 ---
 
@@ -314,8 +397,8 @@ FAQs: https://aws.amazon.com/step-functions/faqs/
 
 service to migrate databases into an AWS db engine (aurora or DDB for example)
 
-FAQs: https://aws.amazon.com/dms/faqs
+FAQs:
+
+- https://aws.amazon.com/dms/faqs
 
 ---
-
-

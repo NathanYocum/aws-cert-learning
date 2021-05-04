@@ -229,4 +229,8 @@ const services: AWSService[] = [
 
 const source = readFileSync("./README.template.md", { encoding: "utf-8" });
 const template = Handlebars.compile(source);
-console.log(template({services}));
+console.log(
+  template({
+    services: services.map((item) => ({ ...item, faq: item.faq.join("\n- ") })),
+  })
+);
